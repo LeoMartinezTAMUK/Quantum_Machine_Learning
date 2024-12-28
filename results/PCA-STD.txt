@@ -1,0 +1,27 @@
+Training Output:
+New best
+Iter: 1 | Cost: 0.7283265 | Accuracy: 0.8194571
+New best
+Iter: 2 | Cost: 0.4096633 | Accuracy: 0.8718000
+New best
+Iter: 3 | Cost: 0.2705479 | Accuracy: 0.9561714
+New best
+Iter: 4 | Cost: 0.2472225 | Accuracy: 0.9582000
+Iter: 5 | Cost: 0.2190362 | Accuracy: 0.9575429
+
+
+Classification Metrics Output:
+Cost: 0.2492813344949947, Accuracy: 96.0%
+              precision    recall  f1-score   support
+
+        -1.0       0.93      1.00      0.96      7833
+         1.0       1.00      0.92      0.96      7167
+
+    accuracy                           0.96     15000
+   macro avg       0.96      0.96      0.96     15000
+weighted avg       0.96      0.96      0.96     15000
+
+Precision: 1.0
+Recall: 0.9153062648248919
+0.9557805784220879
+0.957653132412446
